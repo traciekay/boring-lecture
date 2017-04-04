@@ -17,3 +17,17 @@ h1.intro{
 body{
   margin: 59px 57px 10px 57px;
 }
+
+.highlight{
+  color: navy;
+  background-color: silver;
+  border: 10px;
+  border-color: black;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+p.intro1{
+  font-family: sans-serif;
+  font-size: 20px;
+}
